@@ -1,0 +1,8 @@
+Welcome to python programming,
+ 
+In this example we are using python module to convert pdf to text.
+ 
+File converted 
+ 
+successfully if you been seeing it in file type text.
+ 
